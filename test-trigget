@@ -1,1 +1,2 @@
 I am creating and pushing this file to check the triggering in pipeline
+I am using jenkins file to do the ci job, and the jenkinsfile is already in this repository
